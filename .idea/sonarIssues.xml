@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../automationtesting/toolsqapom/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../automationtesting/toolsqapom/src/main/java/co/com/sofka/page/common/CommonActionsOnPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../automationtesting/toolsqapom/src/test/java/co/com/sofka/runner/practiceform/PracticeFormTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/model/loginpanel/BuzzModuleModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/model/loginpanel/LoginPanelModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/buzzmodule/BuzzUpdateStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/buzzmodule/CategoriaBuzzMenuPrincipal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/buzzmodule/UpdateStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/common/BaseSikulix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/common/CommonActionOnPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/loginpanel/LoginPanel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/loginpanel/MenuPrincipalLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/page/loginpanel/menuPrincipalLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/util/Log4jValues.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/orangehrm/util/Seconds.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/log4j2.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/loginpanel/LoginPanelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/buzzmodule/BuzzModuleCucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/BuzzModuleCucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberOpt1Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberOpt2StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberOpt2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberOpt3Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberOpt4Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelCucumberTest1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/runner/loginpanel/LoginPanelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/buzzmodule/BuzzModuleCucumberStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/loginpanel/LoginPanelCucumberOpt1StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/loginpanel/LoginPanelCucumberOpt2StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/loginpanel/LoginPanelCucumberOpt3StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/loginpanel/LoginPanelCucumberOpt4StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/loginpanel/LoginPanelCucumberOpt5StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/orangehrm/stepdefinition/setup/WebUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features.webui.buzzmodule/buzzModule.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/webui/loginpanel/BuzzModule.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/webui/loginpanel/loginPanel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/webui/loginpanel/loginPanelInvalidUser.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/webui/loginpanel/loginpanel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/model/LoginMyInfoModel/LoginMyInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/model/practiceform/LoginMyInfoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/model/practiceform/PracticeFormModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/page/loginpanel/LoginPanel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/page/loginpanel/PracticeForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/page/myinfo/PanelLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/util/MaritalStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/main/java/co/com/sofka/util/Smoke.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/java/co/com/sofka/runner/loginmyinfo/LoginMyInfoCucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/java/co/com/sofka/runner/loginmyinfo/PracticeFormCucumberOpt2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/java/co/com/sofka/stepdefinition/loginMyinfo/LoginPanelCucumberStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/java/co/com/sofka/stepdefinition/loginMyinfo/MyInfoCucumberStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/java/co/com/sofka/stepdefinition/practiceform/opt1/PracticeFormCucumberOpt1StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/java/co/com/sofka/stepdefinition/setup/webui/WebUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/resources/features/loginmyinfo/MyInfo.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/resources/features/loginmyinfo/PanelLogin.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../retopomwhitfactory/toolsqapomwithpagefactory/src/test/resources/features/restassured/reqresin/login/login.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/15.0.0/adecdd395ef22d28ab03907ed42cbac5579ddc06/messages-15.0.0.jar!/io/cucumber/messages/internal/com/google/common/base/StandardSystemProperty.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
